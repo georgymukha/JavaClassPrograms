@@ -1,5 +1,4 @@
 package com.java.homework13;
-
 public class PrintOutOddNumbers {
     public static void main(String[] args) {
         System.out.println("Odd numbers from 1 to 20:");
